@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "golang.go",
+    "streetsidesoftware.code-spell-checker",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "oderwat.indent-rainbow"
+  ]
+}
