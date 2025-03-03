@@ -6,6 +6,7 @@
     "esbenp.prettier-vscode",
     "oderwat.indent-rainbow",
     "gruntfuggly.todo-tree",
-    "jgclark.vscode-todo-highlight"
+    "jgclark.vscode-todo-highlight",
+    "premparihar.gotestexplorer"
   ]
 }

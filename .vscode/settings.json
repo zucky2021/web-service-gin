@@ -1,6 +1,8 @@
 {
+  "files.autoSave": "afterDelay",
   "editor.insertSpaces": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.renderWhitespace": "boundary",
   "indentRainbow.indentSetter": {
     "[json]": 2,
     "[go": 2
@@ -10,6 +12,13 @@
     "editor.insertSpaces": false,
     "editor.defaultFormatter": "golang.go"
   },
-  "editor.renderWhitespace": "boundary",
-  "files.autoSave": "afterDelay"
+  "go.useLanguageServer": true,
+  "go.toolsManagement.autoUpdate": true,
+  "go.formatTool": "goimports",
+  "go.lintTool": "golangci-lint",
+  "go.buildOnSave": "workspace",
+  "go.vetOnSave": "workspace",
+  "gopls": {
+    "ui.semanticTokens": true
+  }
 }
