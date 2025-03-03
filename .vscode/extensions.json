@@ -4,6 +4,8 @@
     "streetsidesoftware.code-spell-checker",
     "eamodio.gitlens",
     "esbenp.prettier-vscode",
-    "oderwat.indent-rainbow"
+    "oderwat.indent-rainbow",
+    "gruntfuggly.todo-tree",
+    "jgclark.vscode-todo-highlight"
   ]
 }
